@@ -11,7 +11,11 @@ export default {
         },
         accent: '#22D3EE',
         muted: '#F5F5F7',
-        card: '#0B0B10'
+        card: '#0B0B10',
+        zinc: {
+          450: '#8c8c96',
+          850: '#1f1f23',
+        },
       },
       boxShadow: {
         soft: '0 10px 30px rgba(0,0,0,0.08)',
